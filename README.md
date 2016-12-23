@@ -3,9 +3,9 @@
 
 ## 项目运行
 ```
-git clone https://github.com/bailicangdu/elm
+git clone https://github.com/vue-elm/vue2-elm.git
 
-cd elm
+cd vue2-elm
 
 npm install
 ```
