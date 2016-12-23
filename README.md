@@ -1,5 +1,5 @@
 
-#### 基于 vue2 + vue-rotuer + vuex + webpack + ES6 + fetch + less + http-proxy-middleware反向代理 重写 饿了么 webapp
+基于 vue2 + vue-rotuer + vuex + webpack + ES6 + fetch + less + http-proxy-middleware反向代理 重写 饿了么 webapp
 
 ## 项目运行
 ```
