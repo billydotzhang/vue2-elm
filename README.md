@@ -3,7 +3,7 @@
 
 ## 项目运行
 ```
-git clone  https://github.com/bailicangdu/elm
+git clone https://github.com/bailicangdu/elm
 
 cd elm
 
